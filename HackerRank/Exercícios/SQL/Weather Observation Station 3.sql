@@ -1,0 +1,7 @@
+SELECT 
+    DISTINCT CITY
+FROM    
+    STATION
+WHERE
+    1=1
+    AND ID%2 = 0S
