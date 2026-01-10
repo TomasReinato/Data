@@ -1,0 +1,6 @@
+SELECT 
+    ROUND(MAX(LAT_N),4) as sum
+FROM    
+    STATION
+WHERE
+    LAT_N < 137.2345
