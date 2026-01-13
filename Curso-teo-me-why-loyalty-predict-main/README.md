@@ -87,3 +87,15 @@ Confira as ferramentas necessárias para estar confortável em acompanhar o proj
 
 > [!NOTE]
 > As lives serão de segunda a sexta. Havendo necessidade de avançar por mais de uma semana, seguiremos realizando transmissões.
+
+
+## README MEU :): 
+### Ciclo de vida
+    Foi estipulado que:
+     visitantes com até sete dias da primeira interação serão considerados como CURIOSOS 
+     visitantes com até sete dias da primeira interação e com uma recência de até 14 dias serão considerados como FIEL 
+     visitantes com uma recência de 7 até 14 dias serão considerados como TURISTA 
+     visitantes com uma recência de 15 até 27 dias serão considerados como DESENCANTADO 
+     visitantes com uma recência de 28 dias ou mais serão considerados como ZUMBI
+     visitantes com uma recência menor que 7 e uma recência anterior entre 14 e 27 serão considerados RECONQUISTADO 
+     visitantes com uma recência menor que 7 e uma recência anterior maior ou igual que 28 serão considerados REBORN 
