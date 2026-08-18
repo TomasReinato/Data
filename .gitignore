@@ -1,2 +1,6 @@
 *.env
+*.pdf
+*.zip
+*_pycache
+
 
