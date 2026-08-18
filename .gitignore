@@ -1,6 +1,6 @@
 *.env
 *.pdf
 *.zip
-*_pycache
+*_pycache_
 
 
