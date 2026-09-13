@@ -1,2 +1,7 @@
 .venv
 .env
+data/
+.venv_nba_new/
+data/
+__pycache__/
+*.egg-info/
