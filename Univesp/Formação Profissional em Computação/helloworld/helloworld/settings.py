@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'helloworld',
     'website',
     'django.contrib.admin',
+    'rest_framemwork'
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
