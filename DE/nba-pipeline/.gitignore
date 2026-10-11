@@ -2,6 +2,7 @@
 .env
 data/
 .venv_nba_new/
+.nba_venv/
 data/
 __pycache__/
 *.egg-info/

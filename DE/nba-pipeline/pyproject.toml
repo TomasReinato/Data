@@ -1,9 +1,21 @@
 [project]
 name = "nba-pipeline"
 version = "0.1.0"
+dependencies = [
+  "polars==2.0.0 ", 
+  "numpy==2.3.3",
+  "pandas==3.0.6", 
+  "pyarrow==26.0.0",
+  "nba_api==1.11.4"
+]
+requires-python = ">=3.8"
 
 [build-system]
 requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 [tool.setuptools]
 packages = ["src"]
+[project.optional-dependencies] 
+dev = [
+"pytest",
+"ipykernel" ]
